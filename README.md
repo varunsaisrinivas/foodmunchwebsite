@@ -9,11 +9,17 @@ Check out the live demo of the website https://foodmunchwebsite.netlify.app/
 **Technologies Used**
 
 HTML5
+
 CSS3
-Bootstrap 4.5.2
-JavaScript (jQuery)
+
+Bootstrap grid system
+
+Flex Box
+
 Font Awesome
+
 Google Fonts
+
 Responsive design for mobile and desktop
 
 
