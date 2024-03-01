@@ -7,6 +7,7 @@ Welcome to the FoodMunch website repository! This is a simple and elegant websit
 Check out the live demo of the website https://foodmunchwebsite.netlify.app/
 
 **Technologies Used**
+
 HTML5
 CSS3
 Bootstrap 4.5.2
